@@ -1,3 +1,3 @@
 ![Source Icon](thumbnail.svg)
 # Kinetic Discussions
-Create or update messages, discussions, and invitations in Kinetic Discussions.
+The Discussions (real time chat) component of the Kinetic Platform.
