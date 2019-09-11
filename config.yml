@@ -4,4 +4,5 @@ categories:
 - Social
 - Chat
 display-name: Kinetic Discussions
-manufacture: Kinetic
+manufacturer: Kinetic Data
+description: The Discussions (real time chat) component of the Kinetic Platform.
